@@ -30,4 +30,4 @@ jobs:
       - store_test_results:
         path: ./junit
       - store_artifacts:
-        path: ./junti
+        path: ./junit
